@@ -1,0 +1,30 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.four {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.positioning {
+  display: flex;
+  justify-content: center;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
